@@ -1,0 +1,22 @@
+{
+  "name": "ember-lazy-collection",
+  "summary": "Ember Collection with renders in a lazy manner",
+  "descrption": "",
+  "homepage": "http://github.com/stefanpenner/ember-lazy-collection",
+  "author": "Stefan Penner",
+  "version": "0.0.1",
+
+  "directories":{
+    "lib": "lib"
+  },
+
+  "dependencies": {
+  },
+
+  "bpm:build": {
+    "bpm_lib.js": {
+      "files": ["lib"],
+      "modes": "*"
+    }
+  }
+}
